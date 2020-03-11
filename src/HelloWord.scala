@@ -40,6 +40,6 @@ case class CheckHeartBeat(name:String,time:Int)
     case (0, _) => println("元祖第一个为0，第二个元素为任意类型，并且只有两个元素")
     case (x, m, k) => println("有3个元素的元祖")
     case (_, "AK47") => println("AK47")//元祖最多22
-    case (a,b,c,d)=>print("形式大好坎坎坷坷扩扩扩扩扩hhhhgggggghdh")
+    case (a,b,c,d)=>print("形式大好")
   }
 }
