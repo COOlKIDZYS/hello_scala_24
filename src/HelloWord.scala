@@ -41,5 +41,7 @@ case class CheckHeartBeat(name:String,time:Int)
     case (x, m, k) => println("有3个元素的元祖")
     case (_, "AK47") => println("AK47")//元祖最多22
     case (a,b,c,d)=>print("形式大好坎坎坷坷扩扩扩扩扩hhhhgggggghdh")
+    case (_, "AK48") => println("AK47")//元祖最多24
+
   }
 }
