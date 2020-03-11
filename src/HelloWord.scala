@@ -42,6 +42,4 @@ case class CheckHeartBeat(name:String,time:Int)
     case (_, "AK47") => println("AK47")//元祖最多22
     case (a,b,c,d)=>print("形式大好坎坎坷坷扩扩扩扩扩")
   }
-
-
 }
